@@ -7,7 +7,9 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ScreenSoundApplication {
 
 	public static void main(String[] args) {
+
 		SpringApplication.run(ScreenSoundApplication.class, args);
+		System.out.println("Bem vindos à minha aplicação java");
 	}
 
 }
